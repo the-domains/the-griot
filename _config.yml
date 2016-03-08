@@ -1,0 +1,14 @@
+layout_spectrum: 0.9103115
+color:
+  saturation: 0.815968
+  lightness: 0.7512502
+  brandStrength: 0.8856068
+  brandColors:
+    - '#CF9B7F'
+    - '#A36F53'
+    - '#0E0302'
+    - '#4B1602'
+    - '#D85430'
+  rhythmicContrast: 0.3114902
+typography_spectrum: 0.4404984
+name: The Griot
